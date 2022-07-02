@@ -1,4 +1,4 @@
-### Hey, I love to work on literally anything around DeFi: smart contracts, custom blockchains, React webapps, APIs, games, high-load backends. 2 Master's degrees in Applied Math and Stats help doing cryptography and tokenomics. Mostly Typescript, Solidity, and Rust. Freelancer, valuing my freedom a lot, and not into a permanent job. If you're looking to get done quickly complex stuff or form some cooperation, don't hesitate to give me a shout! 🤳
+Hey! I love to work on literally anything around DeFi: smart contracts, custom blockchains, React webapps, APIs, games, high-load backends. 2 Master's degrees in Applied Math and Stats help doing cryptography and tokenomics. Mostly Typescript, Solidity, and Rust. Freelancer, valuing my freedom a lot, and not into a permanent job. If you're looking to get done quickly complex stuff or form some cooperation, don't hesitate to give me a shout! 🤳
 
 <!--
 **crypt0grapher/crypt0grapher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
