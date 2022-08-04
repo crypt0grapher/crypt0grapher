@@ -3,7 +3,7 @@ I'm Alex loving to work on literally anything around DeFi: smart contracts, cust
 Mostly Typescript, Solidity, and Rust. Degrees in Applied Math and Stats help doing R&D in cryptography and tokenomics.<br>
 Freelancer, valuing my freedom a lot, and not into a permanent job. 
 
-If you're looking to get done quickly complex blockchain stuff or form some cooperation, don't hesitate to give me a shout! 🤳
+If you're looking to get done quickly some complex blockchain stuff or form a cooperation, don't hesitate to give me a shout! 🤳
 You might want to create an [issue](https://github.com/crypt0grapher/crypt0grapher/issues/new) here (note it's public!) or simply find me on [Discord](https://discord.gg/9AkGNPvU).
 
 <!--
