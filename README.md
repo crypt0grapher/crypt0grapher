@@ -3,7 +3,7 @@ I'm Alex loving to work on literally anything around DeFi: smart contracts, cust
 Mostly Typescript, Solidity, and Rust. Degrees in Applied Math and Stats help doing R&D in cryptography and tokenomics.<br>
 
 If you're looking to get done quickly some complex blockchain stuff or form a cooperation, don't hesitate to give me a shout! 🤳
-You might want to create an [issue](https://github.com/crypt0grapher/crypt0grapher/issues/new) here (note it's public!) or simply [schedule a call with me](https://calendly.com/crypt0grapher/30min).
+You might want to [send me a message](https://t.me/crypt_grapher) or simply [schedule a call with me](https://calendly.com/crypt0grapher/30min).
 
 <!--
 **crypt0grapher/crypt0grapher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
