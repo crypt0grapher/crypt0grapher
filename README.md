@@ -2,7 +2,7 @@ Hey 👋 happy to see you here! <br>
 I'm Alex loving to work on literally anything around DeFi: smart contracts, custom blockchains, React webapps, APIs, games, high-load backends. 
 Mostly Typescript, Solidity, and Rust. Degrees in Applied Math and Stats help doing R&D in cryptography and tokenomics.<br>
 
-Among other things, I'm a huge fan of applied cryptography, functional and logical progamming, and FreeBSD!<b>
+Among other things, I'm a huge fan of applied cryptography, functional and logical progamming, and FreeBSD!<br>
 
 If you're looking to get done quickly some complex blockchain stuff or just collaborate on something don't hesitate to give me a shout! 🤳
 You might want to ping me on [Telegram](https://t.me/+t_BYca-6g7c5Mjkx) or simply [schedule a call with me](https://calendly.com/crypt0grapher/30min).
