@@ -16,3 +16,6 @@ jobs:
         user: crypt0grapher
         filename: metrics.svg
         token: ${{ secrets.METRICS_TOKEN }}
+        base: header, activity, community, repositories, metadata
+        base_indepth: yes
+        plugin_languages: yes
