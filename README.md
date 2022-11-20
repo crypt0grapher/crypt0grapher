@@ -9,7 +9,7 @@ You might want to ping me on [Telegram](https://t.me/+t_BYca-6g7c5Mjkx) or simpl
 
 <span align="center">
 
-![Metrics](/profile/metrics.svg)
+![Metrics](/metrics.svg)
 
 </span>
 
