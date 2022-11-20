@@ -4,6 +4,7 @@ on:
   schedule:
     - cron: '0 0 * * *'
   workflow_dispatch:
+    - push: {branches: ["main"]}
 
 jobs:
   metrics:
@@ -15,3 +16,4 @@ jobs:
       with:
         user: crypt0grapher
         filename: metrics.svg
+        token: ${{ secrets.METRICS_TOKEN }}
