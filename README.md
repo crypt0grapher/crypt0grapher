@@ -7,6 +7,12 @@ Among other things, I'm a huge fan of applied cryptography, λ functional  and :
 If you're looking to get done quickly some complex blockchain stuff or just collaborate on something don't hesitate to give me a shout! 🤳
 You might want to ping me on [Telegram](https://t.me/+t_BYca-6g7c5Mjkx) or simply [schedule a call with me](https://calendly.com/crypt0grapher/30min).
 
+<span align="center">
+
+![Metrics](/profile/metrics.svg)
+
+</span>
+
 <!--
 **crypt0grapher/crypt0grapher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
