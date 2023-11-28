@@ -1,7 +1,7 @@
 Hey 👋 happy to see you here! <br> 
 I'm Alex loving to work with Algorithmic and High-Frequency Trading Systems, Machine Learning, and literally anything around DeFi: smart contracts, custom blockchains, React web apps, APIs, games, and high-load backends. 
 Mostly Typescript, Solidity, and Rust. Degrees in Applied Math and Stats help to do advanced cryptography and trading algorithms.<br>
-Developer of [Decentralized Foundation](https://docs.defo.app/) and [Safe Yields](https://safeyields.io/).
+Developer of [Decentralized Foundation](https://defo.app/) and [Safe Yields](https://safeyields.io/).
 
 Among other things, I'm a huge fan of applied cryptography, λ functional, :- logic programming, and FreeBSD!<br>
 
