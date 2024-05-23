@@ -1,5 +1,5 @@
 Hey 👋 happy to see you here! <br> 
-I'm Alex loving to work with Algorithmic and High-Frequency Trading Systems, Machine Learning, and literally anything around DeFi: smart contracts, custom blockchains, React web apps, APIs, games, and high-load backends. 
+I'm Alex, the CTO of ISA Labs, loving to work with Algorithmic and High-Frequency Trading Systems, Machine Learning, and literally anything around DeFi: smart contracts, custom blockchains, React web apps, APIs, games, and high-load backends. 
 Mostly Typescript, Solidity, and Rust. Degrees in Applied Math and Stats help to do advanced cryptography and trading algorithms.<br>
 Developer of [XPERP](https://xperp.tech), [Decentralized Foundation](https://docs.defo.app/) and [Safe Yields](https://safeyields.io/).
 
