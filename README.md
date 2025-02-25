@@ -1,5 +1,5 @@
 Hey 👋 happy to see you here! <br> 
-I'm Alex, loving to work with Algorithmic and High-Frequency Trading Systems, Machine Learning, and anything trending in DeFi and crypto: smart contracts, custom blockchains, React web apps, APIs, games, and high-load backends. 
+I'm Alex, loving to work with Algorithmic and High-Frequency Trading Systems, Machine Learning, and everything trending in DeFi and crypto: smart contracts, custom blockchains, React web apps, APIs, games, and high-load backends. 
 Mostly Rust, Typescript, Python, and Solidity. MSc Applied Math and Stats. 
 Delivering advanced blockchain and trading systems.<be>
 
