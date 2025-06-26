@@ -1,12 +1,13 @@
-Hey 👋 happy to see you here! <br> 
-I'm Alex, loving to work with Algorithmic and High-Frequency Trading Systems, Machine Learning, and everything trending in DeFi and crypto: research and algos, smart contracts, custom blockchains, React web apps, APIs, and high-load backends. 
-Mostly Rust, Typescript, Python, and Solidity. MSc Applied Math and Stats. 
+Hey 👋 Happy to see you here! <br> 
+I'm Alex, loving to craft Algorithmic, High-Frequency Trading Systems and blockchain staff: research and algos, complex tokens/smart contracts, custom blockchains, and high-load backends.
+Mostly Rust, TypeScript, Python, and Solidity. C++, still. 2xMSc Applied Math and Stats. 
+
 Delivering advanced blockchain and trading systems.<be>
 
 Among other things, I'm a huge fan of applied cryptography, λ functional, :- logic programming, and FreeBSD!<br>
 
-If you're looking to get done quickly some complex blockchain and/or trading stuff or collaborate on something, don't hesitate to give me a shout! 🤳
-You might want to ping me on [Telegram](https://t.me/+t_BYca-6g7c5Mjkx) or [schedule a call with me](https://calendly.com/crypt0grapher/30min).
+If you're looking to collaborate on some interesting blockchain and/or trading stuff, don't hesitate to reach out to me!
+You can reach me on [Telegram](https://t.me/+t_BYca-6g7c5Mjkx) or schedule a call with me [here](https://calendly.com/crypt0grapher/30min).
 
 <span align="center">
 
