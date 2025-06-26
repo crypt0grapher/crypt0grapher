@@ -6,7 +6,7 @@ Delivering advanced blockchain and trading systems.<be>
 
 Among other things, I'm a huge fan of applied cryptography, λ functional, :- logic programming, and FreeBSD!<br>
 
-If you're looking to collaborate on some interesting blockchain and/or trading stuff, don't hesitate to reach out to me!
+If you're looking to collaborate on some interesting blockchain and/or algotrading stuff, don't hesitate to reach out to me!
 You can reach me on [Telegram](https://t.me/+t_BYca-6g7c5Mjkx) or schedule a call with me [here](https://calendly.com/crypt0grapher/30min).
 
 <span align="center">
